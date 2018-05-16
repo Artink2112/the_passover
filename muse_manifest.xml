@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games2112@gmail.com" resolutions="1x" timestamp="1526488673407">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games2112@gmail.com" resolutions="1x" timestamp="1526492026742">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3877155636" ref="index"/>
+    <file name="index.css" crc="438196740" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -73,5 +73,5 @@
     </folder>
     <file name="index.html" crc="4089778744" seo="true" mt="1525283253374" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4058450394" seo="true" mt="1526488301346" redirect="true"/>
+  <file name="index.html" crc="4227498856" seo="true" mt="1526492015284" redirect="true"/>
 </manifest>
