@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games2112@gmail.com" resolutions="1x" timestamp="1526487962453">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games2112@gmail.com" resolutions="1x" timestamp="1526488335710">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="419238049" ref="index"/>
+    <file name="index.css" crc="3877155636" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -37,10 +37,10 @@
     <file name="1.jpg" crc="118028362" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="download.jpg" crc="4247208348" seo="true" ref="index">
+    <file name="download-1.jpg" crc="4025585786" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="download-1.jpg" crc="4025585786" seo="true" ref="index">
+    <file name="download.jpg" crc="4247208348" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.jpg" crc="3826392371" seo="true" ref="index">
@@ -73,5 +73,5 @@
     </folder>
     <file name="index.html" crc="4089778744" seo="true" mt="1525283253374" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4211604594" seo="true" mt="1526487860161" redirect="true"/>
+  <file name="index.html" crc="4058450394" seo="true" mt="1526488301346" redirect="true"/>
 </manifest>
