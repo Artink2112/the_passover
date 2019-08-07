@@ -1,41 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://905games2112@gmail.com/index.html</loc>
-    <lastmod>2018-05-16</lastmod>
+    <loc>http://Martinzportfolio.tk/index.html</loc>
+    <lastmod>2019-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://905games2112@gmail.com/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://905games2112@gmail.com/tablet/index.html"/>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/3.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(8%20of%2030).jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Martinzportfolio.tk/graphic-design.html</loc>
+    <lastmod>2019-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(8%20of%2030).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/4.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(22%20of%2030).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/1.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/905%20games%20logo%20august%2019%20final%20copy%20med-crop-u1445.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/download-1.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/death%20bunch%20logo%20test-01-crop-u1485.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/download.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/wes%20w%20banner-crop-u1545.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/2.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/back%20logo-crop-u1465.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/71iv7kyplol_sy679_.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/front%20logo-crop-u1505.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/12.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/gh%20poster-01-crop-u1525.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/5.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/you%20can%20count%20on%20me-crop-u1565.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Martinzportfolio.tk/fonts.html</loc>
+    <lastmod>2019-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(8%20of%2030).jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Martinzportfolio.tk/videos.html</loc>
+    <lastmod>2019-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(8%20of%2030).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://905games2112@gmail.com/images/lamb.jpg</image:loc>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(9%20of%2030).jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Martinzportfolio.tk/published-work.html</loc>
+    <lastmod>2019-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(8%20of%2030).jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Martinzportfolio.tk/photography.html</loc>
+    <lastmod>2019-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(8%20of%2030).jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Martinzportfolio.tk/about-me.html</loc>
+    <lastmod>2019-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(8%20of%2030).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Martinzportfolio.tk/images/olyumpus%20(19%20of%2030).jpg</image:loc>
     </image:image>
   </url>
 </urlset>

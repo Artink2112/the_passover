@@ -1,77 +1,169 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games2112@gmail.com" resolutions="1x" timestamp="1526493476367">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Martinzportfolio.tk" resolutions="1x" timestamp="1565156886856">
   <folder name="css">
-    <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3933053995" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="482636812" ref="index"/>
+    <file name="about-me.css" crc="4265523636" ref="about-me"/>
+    <file name="published-work.css" crc="3881937138" ref="published-work"/>
+    <file name="photography.css" crc="3846983363" ref="photography"/>
+    <file name="fonts.css" crc="226860889" ref="fonts"/>
+    <file name="graphic-design.css" crc="3841912920" ref="graphic-design"/>
+    <file name="videos.css" crc="3993943210" ref="videos"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
-    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
+    <file name="museutils.js" crc="340535759" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
+    <file name="require.js" crc="7928878" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
+    <file name="webpro.js" crc="4059564322" ref="graphic-design"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="graphic-design"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="graphic-design"/>
+    <file name="touchswipe.js" crc="4075097462" ref="graphic-design"/>
   </folder>
   <folder name="images">
-    <file name="website (6 of 9)320x503.jpg" crc="78206208" seo="true" ref="phone>index">
+    <file name="olyumpus (8 of 30).jpg" crc="4048814333" seo="true" ref="index:graphic-design:fonts:videos:published-work:photography:about-me">
+      <caption webpage="fonts" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="published-work" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="untitled-1.jpg" crc="340796696" seo="true" ref="phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
+    <file name="u634.png" crc="4015154541" ref="index"/>
+    <file name="u634-r.png" crc="139605415" ref="index"/>
+    <file name="u729-6.png" crc="224851724" ref="index"/>
+    <file name="u941.png" crc="380961804" ref="index"/>
+    <file name="u941-r.png" crc="280911427" ref="index"/>
+    <file name="u947.png" crc="3991680456" ref="index"/>
+    <file name="u947-r.png" crc="3817897618" ref="index"/>
+    <file name="u953.png" crc="4054400517" ref="index"/>
+    <file name="u953-r.png" crc="4123774931" ref="index"/>
+    <file name="u959.png" crc="275157141" ref="index"/>
+    <file name="u959-r.png" crc="4068355674" ref="index"/>
+    <file name="u965.png" crc="3967070835" ref="index"/>
+    <file name="u965-r.png" crc="4173874613" ref="index"/>
+    <file name="u1038.png" crc="196338148" ref="index"/>
+    <file name="u1038-r.png" crc="85167086" ref="index"/>
+    <file name="u1044.png" crc="3862011763" ref="index"/>
+    <file name="u1044-r.png" crc="113847457" ref="index"/>
+    <file name="u1050.png" crc="3835685925" ref="index"/>
+    <file name="u1050-r.png" crc="4044799721" ref="index"/>
+    <file name="u1025-10.png" crc="3846634711" ref="index"/>
+    <file name="olyumpus (22 of 30).jpg" crc="4122833611" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="website (2 of 9)320x519.png" crc="4287413882" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="905 games logo august 19 final copy med-crop-u1445.jpg" crc="33362397" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="website (6 of 9).jpg" crc="518881781" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
+    <file name="death bunch logo test-01-crop-u1485.jpg" crc="3763315645" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="website (2 of 9).png" crc="130807092" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
+    <file name="wes w banner-crop-u1545.jpg" crc="449562977" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="3.jpg" crc="433377448" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="back logo-crop-u1465.jpg" crc="118048235" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="4.jpg" crc="4145815383" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="front logo-crop-u1505.jpg" crc="3955110346" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="1.jpg" crc="118028362" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="gh poster-01-crop-u1525.jpg" crc="4225727928" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="download-1.jpg" crc="4025585786" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="you can count on me-crop-u1565.jpg" crc="3970266476" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="download.jpg" crc="4247208348" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="loading.gif" crc="3815509949" ref="graphic-design"/>
+    <file name="u1059.png" crc="3940601818" ref="graphic-design"/>
+    <file name="u1059-r.png" crc="4287154062" ref="graphic-design"/>
+    <file name="u1060-6.png" crc="224851724" ref="graphic-design"/>
+    <file name="u1062.png" crc="380961804" ref="graphic-design"/>
+    <file name="u1062-r.png" crc="280911427" ref="graphic-design"/>
+    <file name="u1064.png" crc="3991680456" ref="graphic-design"/>
+    <file name="u1064-r.png" crc="3817897618" ref="graphic-design"/>
+    <file name="u1066.png" crc="4054400517" ref="graphic-design"/>
+    <file name="u1066-r.png" crc="4123774931" ref="graphic-design"/>
+    <file name="u1068.png" crc="275157141" ref="graphic-design"/>
+    <file name="u1068-r.png" crc="4068355674" ref="graphic-design"/>
+    <file name="u1070.png" crc="3967070835" ref="graphic-design"/>
+    <file name="u1070-r.png" crc="4173874613" ref="graphic-design"/>
+    <file name="u1855.png" crc="4015154541" ref="fonts"/>
+    <file name="u1855-r.png" crc="139605415" ref="fonts"/>
+    <file name="u1856-6.png" crc="224851724" ref="fonts"/>
+    <file name="u1858.png" crc="380961804" ref="fonts"/>
+    <file name="u1858-r.png" crc="280911427" ref="fonts"/>
+    <file name="u1860.png" crc="3991680456" ref="fonts"/>
+    <file name="u1860-r.png" crc="3817897618" ref="fonts"/>
+    <file name="u1862.png" crc="4054400517" ref="fonts"/>
+    <file name="u1862-r.png" crc="4123774931" ref="fonts"/>
+    <file name="u1864-4-a.png" crc="275157141" ref="fonts"/>
+    <file name="u1866.png" crc="3967070835" ref="fonts"/>
+    <file name="u1866-r.png" crc="4173874613" ref="fonts"/>
+    <file name="olyumpus (9 of 30).jpg" crc="253976223" seo="true" ref="videos">
+      <caption webpage="videos" alt=""/>
     </file>
-    <file name="2.jpg" crc="3826392371" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="u1624.png" crc="275157141" ref="videos"/>
+    <file name="u1624-r.png" crc="4068355674" ref="videos"/>
+    <file name="u1626.png" crc="3967070835" ref="videos"/>
+    <file name="u1626-r.png" crc="4173874613" ref="videos"/>
+    <file name="u1620.png" crc="3991680456" ref="videos"/>
+    <file name="u1620-r.png" crc="3817897618" ref="videos"/>
+    <file name="u1622.png" crc="3940601818" ref="videos"/>
+    <file name="u1622-r.png" crc="4287154062" ref="videos"/>
+    <file name="u1615.png" crc="4015154541" ref="videos"/>
+    <file name="u1615-r.png" crc="139605415" ref="videos"/>
+    <file name="u1616-6.png" crc="224851724" ref="videos"/>
+    <file name="u1618.png" crc="380961804" ref="videos"/>
+    <file name="u1618-r.png" crc="280911427" ref="videos"/>
+    <file name="u1904.png" crc="4015154541" ref="published-work"/>
+    <file name="u1904-r.png" crc="139605415" ref="published-work"/>
+    <file name="u1905-6.png" crc="224851724" ref="published-work"/>
+    <file name="u1907.png" crc="380961804" ref="published-work"/>
+    <file name="u1907-r.png" crc="280911427" ref="published-work"/>
+    <file name="u1909.png" crc="3991680456" ref="published-work"/>
+    <file name="u1909-r.png" crc="3817897618" ref="published-work"/>
+    <file name="u1911.png" crc="4054400517" ref="published-work"/>
+    <file name="u1911-r.png" crc="4123774931" ref="published-work"/>
+    <file name="u1913.png" crc="275157141" ref="published-work"/>
+    <file name="u1913-r.png" crc="4068355674" ref="published-work"/>
+    <file name="u1915-4-a.png" crc="3967070835" ref="published-work"/>
+    <file name="u1806.png" crc="4015154541" ref="photography"/>
+    <file name="u1806-r.png" crc="139605415" ref="photography"/>
+    <file name="u1807-6.png" crc="224851724" ref="photography"/>
+    <file name="u1809-4-a.png" crc="380961804" ref="photography"/>
+    <file name="u1811.png" crc="3991680456" ref="photography"/>
+    <file name="u1811-r.png" crc="3817897618" ref="photography"/>
+    <file name="u1813.png" crc="4054400517" ref="photography"/>
+    <file name="u1813-r.png" crc="4123774931" ref="photography"/>
+    <file name="u1815.png" crc="275157141" ref="photography"/>
+    <file name="u1815-r.png" crc="4068355674" ref="photography"/>
+    <file name="u1817.png" crc="3967070835" ref="photography"/>
+    <file name="u1817-r.png" crc="4173874613" ref="photography"/>
+    <file name="olyumpus (19 of 30).jpg" crc="3853598245" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="71iv7kyplol_sy679_.jpg" crc="4028782847" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="12.jpg" crc="4080935543" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="5.jpg" crc="319620783" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lamb.jpg" crc="2075168" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="u1753.png" crc="275157141" ref="about-me"/>
+    <file name="u1753-r.png" crc="4068355674" ref="about-me"/>
+    <file name="u1755.png" crc="3967070835" ref="about-me"/>
+    <file name="u1755-r.png" crc="4173874613" ref="about-me"/>
+    <file name="u1749.png" crc="3940601818" ref="about-me"/>
+    <file name="u1749-r.png" crc="4287154062" ref="about-me"/>
+    <file name="u1751.png" crc="4054400517" ref="about-me"/>
+    <file name="u1751-r.png" crc="4123774931" ref="about-me"/>
+    <file name="u1745-6.png" crc="224851724" ref="about-me"/>
+    <file name="u1747.png" crc="380961804" ref="about-me"/>
+    <file name="u1747-r.png" crc="280911427" ref="about-me"/>
+    <file name="u1744.png" crc="4015154541" ref="about-me"/>
+    <file name="u1744-r.png" crc="139605415" ref="about-me"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="master_a-master.css" crc="136467284" ref="tablet>index"/>
-      <file name="index.css" crc="309782380" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="375684607" seo="true" mt="1525229778917" redirect="true"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="186418025" ref="phone>index"/>
-      <file name="index.css" crc="4100489709" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4089778744" seo="true" mt="1525283253374" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="4079329143" seo="true" mt="1526493461407" redirect="true"/>
+  <file name="index.html" crc="26328968" seo="true" mt="1565155714017" redirect="true"/>
+  <file name="graphic-design.html" crc="4285314834" seo="true" mt="1565155726931" redirect="true"/>
+  <file name="fonts.html" crc="167838541" seo="true" mt="1565155816118" redirect="true"/>
+  <file name="videos.html" crc="3912995090" seo="true" mt="1565155216801" redirect="true"/>
+  <file name="published-work.html" crc="4227045399" seo="true" mt="1565155846375" redirect="true"/>
+  <file name="photography.html" crc="176807575" seo="true" mt="1565155787966" redirect="true"/>
+  <file name="about-me.html" crc="3792810058" seo="true" mt="1565155714024" redirect="true"/>
 </manifest>
