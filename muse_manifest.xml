@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Martinzportfolio.tk" resolutions="1x" timestamp="1565156886856">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Martinzportfolio.tk" resolutions="1x" timestamp="1565162153155">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="482636812" ref="index"/>
-    <file name="about-me.css" crc="4265523636" ref="about-me"/>
-    <file name="published-work.css" crc="3881937138" ref="published-work"/>
-    <file name="photography.css" crc="3846983363" ref="photography"/>
-    <file name="fonts.css" crc="226860889" ref="fonts"/>
+    <file name="about-me.css" crc="4196329365" ref="about-me"/>
+    <file name="published-work.css" crc="3905518609" ref="published-work"/>
+    <file name="photography.css" crc="403426369" ref="photography"/>
+    <file name="fonts.css" crc="4015792065" ref="fonts"/>
     <file name="graphic-design.css" crc="3841912920" ref="graphic-design"/>
     <file name="videos.css" crc="3993943210" ref="videos"/>
   </folder>
@@ -16,20 +16,20 @@
     <file name="museconfig.js" crc="4286661555" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
     <file name="require.js" crc="7928878" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
-    <file name="webpro.js" crc="4059564322" ref="graphic-design"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="graphic-design"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="graphic-design"/>
-    <file name="touchswipe.js" crc="4075097462" ref="graphic-design"/>
+    <file name="webpro.js" crc="4059564322" ref="graphic-design:fonts:photography"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="graphic-design:fonts:photography"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="graphic-design:fonts:photography"/>
+    <file name="touchswipe.js" crc="4075097462" ref="graphic-design:fonts:photography"/>
   </folder>
   <folder name="images">
     <file name="olyumpus (8 of 30).jpg" crc="4048814333" seo="true" ref="index:graphic-design:fonts:videos:published-work:photography:about-me">
       <caption webpage="fonts" alt=""/>
-      <caption webpage="videos" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="about-me" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
+      <caption webpage="videos" alt=""/>
       <caption webpage="published-work" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:graphic-design:fonts:videos:published-work:photography:about-me"/>
     <file name="u634.png" crc="4015154541" ref="index"/>
@@ -76,10 +76,10 @@
     <file name="you can count on me-crop-u1565.jpg" crc="3970266476" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="graphic-design"/>
+    <file name="loading.gif" crc="3815509949" ref="graphic-design:fonts:photography"/>
     <file name="u1059.png" crc="3940601818" ref="graphic-design"/>
     <file name="u1059-r.png" crc="4287154062" ref="graphic-design"/>
-    <file name="u1060-6.png" crc="224851724" ref="graphic-design"/>
+    <file name="u1060-6.png" crc="4168893333" ref="graphic-design"/>
     <file name="u1062.png" crc="380961804" ref="graphic-design"/>
     <file name="u1062-r.png" crc="280911427" ref="graphic-design"/>
     <file name="u1064.png" crc="3991680456" ref="graphic-design"/>
@@ -92,14 +92,13 @@
     <file name="u1070-r.png" crc="4173874613" ref="graphic-design"/>
     <file name="u1855.png" crc="4015154541" ref="fonts"/>
     <file name="u1855-r.png" crc="139605415" ref="fonts"/>
-    <file name="u1856-6.png" crc="224851724" ref="fonts"/>
+    <file name="u1856-6.png" crc="437049108" ref="fonts"/>
     <file name="u1858.png" crc="380961804" ref="fonts"/>
     <file name="u1858-r.png" crc="280911427" ref="fonts"/>
     <file name="u1860.png" crc="3991680456" ref="fonts"/>
     <file name="u1860-r.png" crc="3817897618" ref="fonts"/>
     <file name="u1862.png" crc="4054400517" ref="fonts"/>
     <file name="u1862-r.png" crc="4123774931" ref="fonts"/>
-    <file name="u1864-4-a.png" crc="275157141" ref="fonts"/>
     <file name="u1866.png" crc="3967070835" ref="fonts"/>
     <file name="u1866-r.png" crc="4173874613" ref="fonts"/>
     <file name="olyumpus (9 of 30).jpg" crc="253976223" seo="true" ref="videos">
@@ -115,12 +114,12 @@
     <file name="u1622-r.png" crc="4287154062" ref="videos"/>
     <file name="u1615.png" crc="4015154541" ref="videos"/>
     <file name="u1615-r.png" crc="139605415" ref="videos"/>
-    <file name="u1616-6.png" crc="224851724" ref="videos"/>
+    <file name="u1616-6.png" crc="4116056295" ref="videos"/>
     <file name="u1618.png" crc="380961804" ref="videos"/>
     <file name="u1618-r.png" crc="280911427" ref="videos"/>
     <file name="u1904.png" crc="4015154541" ref="published-work"/>
     <file name="u1904-r.png" crc="139605415" ref="published-work"/>
-    <file name="u1905-6.png" crc="224851724" ref="published-work"/>
+    <file name="u1905-6.png" crc="4126994742" ref="published-work"/>
     <file name="u1907.png" crc="380961804" ref="published-work"/>
     <file name="u1907-r.png" crc="280911427" ref="published-work"/>
     <file name="u1909.png" crc="3991680456" ref="published-work"/>
@@ -129,11 +128,9 @@
     <file name="u1911-r.png" crc="4123774931" ref="published-work"/>
     <file name="u1913.png" crc="275157141" ref="published-work"/>
     <file name="u1913-r.png" crc="4068355674" ref="published-work"/>
-    <file name="u1915-4-a.png" crc="3967070835" ref="published-work"/>
     <file name="u1806.png" crc="4015154541" ref="photography"/>
     <file name="u1806-r.png" crc="139605415" ref="photography"/>
-    <file name="u1807-6.png" crc="224851724" ref="photography"/>
-    <file name="u1809-4-a.png" crc="380961804" ref="photography"/>
+    <file name="u1807-6.png" crc="3798241947" ref="photography"/>
     <file name="u1811.png" crc="3991680456" ref="photography"/>
     <file name="u1811-r.png" crc="3817897618" ref="photography"/>
     <file name="u1813.png" crc="4054400517" ref="photography"/>
@@ -142,8 +139,9 @@
     <file name="u1815-r.png" crc="4068355674" ref="photography"/>
     <file name="u1817.png" crc="3967070835" ref="photography"/>
     <file name="u1817-r.png" crc="4173874613" ref="photography"/>
-    <file name="olyumpus (19 of 30).jpg" crc="3853598245" seo="true" ref="about-me">
+    <file name="olyumpus (19 of 30).jpg" crc="4266779057" seo="true" ref="photography">
       <caption webpage="about-me" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
     <file name="u1753.png" crc="275157141" ref="about-me"/>
     <file name="u1753-r.png" crc="4068355674" ref="about-me"/>
@@ -153,17 +151,90 @@
     <file name="u1749-r.png" crc="4287154062" ref="about-me"/>
     <file name="u1751.png" crc="4054400517" ref="about-me"/>
     <file name="u1751-r.png" crc="4123774931" ref="about-me"/>
-    <file name="u1745-6.png" crc="224851724" ref="about-me"/>
+    <file name="u1745-6.png" crc="3985276147" ref="about-me"/>
     <file name="u1747.png" crc="380961804" ref="about-me"/>
     <file name="u1747-r.png" crc="280911427" ref="about-me"/>
     <file name="u1744.png" crc="4015154541" ref="about-me"/>
     <file name="u1744-r.png" crc="139605415" ref="about-me"/>
+    <file name="olyumpus (5 of 30).jpg" crc="3968287825" seo="true" ref="fonts">
+      <caption webpage="fonts" alt=""/>
+    </file>
+    <file name="p daddy alpha-01-crop-u2863.jpg" crc="4144488260" seo="true" ref="fonts">
+      <caption webpage="fonts" alt=""/>
+    </file>
+    <file name="pup alpha-01-crop-u2883.jpg" crc="4164314540" seo="true" ref="fonts">
+      <caption webpage="fonts" alt=""/>
+    </file>
+    <file name="earl alpha-01.jpg" crc="4012478316" seo="true" ref="fonts">
+      <caption webpage="fonts" alt=""/>
+    </file>
+    <file name="u1864.png" crc="3940601818" ref="fonts"/>
+    <file name="u1864-r.png" crc="4287154062" ref="fonts"/>
+    <file name="u1915.png" crc="3888383085" ref="published-work"/>
+    <file name="u1915-r.png" crc="252265498" ref="published-work"/>
+    <file name="olyumpus (28 of 30).jpg" crc="4236129554" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="olyumpus (5 of 30)588x390.jpg" crc="3866330788" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="olyumpus (20 of 30).jpg" crc="338765535" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="olyumpus (12 of 30).jpg" crc="3801162033" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="olyumpus (7 of 30).jpg" crc="3810967583" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="olyumpus (22 of 30)2.jpg" crc="3784948512" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="olyumpus (27 of 30).jpg" crc="238284766" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="olyumpus (6 of 30).jpg" crc="4148360156" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="july 17 (1 of 5).jpg" crc="197660539" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="peach pit (1 of 10).jpg" crc="44540493" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="july 17 (3 of 5).jpg" crc="3953536334" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="remodrive (4 of 10).jpg" crc="4014244824" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="july 17 (2 of 5)-crop-u2270.jpg" crc="96819077" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="remodrive (5 of 10).jpg" crc="4231084836" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="peach pit (2 of 10).jpg" crc="88044206" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="july 17 (2) (1 of 13).jpg" crc="36183873" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="remodrive (6 of 10).jpg" crc="4040097638" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="u1809.png" crc="3940601818" ref="photography"/>
+    <file name="u1809-r.png" crc="4287154062" ref="photography"/>
+    <file name="olyumpus (19 of 30)2.jpg" crc="3853598245" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u1799-11.png" crc="186278089" ref="about-me"/>
   </folder>
-  <file name="index.html" crc="26328968" seo="true" mt="1565155714017" redirect="true"/>
-  <file name="graphic-design.html" crc="4285314834" seo="true" mt="1565155726931" redirect="true"/>
-  <file name="fonts.html" crc="167838541" seo="true" mt="1565155816118" redirect="true"/>
-  <file name="videos.html" crc="3912995090" seo="true" mt="1565155216801" redirect="true"/>
-  <file name="published-work.html" crc="4227045399" seo="true" mt="1565155846375" redirect="true"/>
-  <file name="photography.html" crc="176807575" seo="true" mt="1565155787966" redirect="true"/>
-  <file name="about-me.html" crc="3792810058" seo="true" mt="1565155714024" redirect="true"/>
+  <file name="index.html" crc="26328968" seo="true" mt="1565161956426" redirect="true"/>
+  <file name="graphic-design.html" crc="3797222904" seo="true" mt="1565161927446" redirect="true"/>
+  <file name="fonts.html" crc="382670866" seo="true" mt="1565161927488" redirect="true"/>
+  <file name="videos.html" crc="3997993750" seo="true" mt="1565161927533" redirect="true"/>
+  <file name="published-work.html" crc="4286441999" seo="true" mt="1565161927569" redirect="true"/>
+  <file name="photography.html" crc="324597083" seo="true" mt="1565161927607" redirect="true"/>
+  <file name="about-me.html" crc="4100430533" seo="true" mt="1565161956436" redirect="true"/>
 </manifest>
